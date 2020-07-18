@@ -6,8 +6,7 @@ $hungry = "no";
 if($hungry == 'yes' ) {
     echo "Angular";
     echo "React";
-    echo "git";
-    echo "php";
+  
 } else {
 
     echo "drink water";
