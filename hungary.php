@@ -1,7 +1,7 @@
 <?php
 echo "I am hungry";
 
-$hungry = "yes";
+$hungry = "no";
 
 if($hungry == 'yes' ) {
     echo "eat samosa";
@@ -9,5 +9,8 @@ if($hungry == 'yes' ) {
     echo "eat patty";
     echo "eat dosa n idly sambar";
 } else {
-    echo "do your homework";
+
+    echo "drink water";
+    
+    
 }
