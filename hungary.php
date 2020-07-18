@@ -4,13 +4,10 @@ echo "I am hungry";
 $hungry = "no";
 
 if($hungry == 'yes' ) {
-    echo "eat samosa";
-    echo "eat junkfood";
-    echo "eat patty";
-    echo "drink coke and pepsi";
-    echo "Love Banana Shakes";
-    echo "eat dosa n idly sambar";
-    echo "eat pani puri";
+    echo "Angular";
+    echo "React";
+    echo "git";
+    echo "php";
 } else {
 
     echo "drink water";
