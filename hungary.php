@@ -8,9 +8,6 @@ if($hungry == 'yes' ) {
     echo "React";
     echo "git";
     echo "php";
-
-    echo "cobol"
-    echo "foxpro"
 } else {
 
     echo "drink water";
