@@ -1,2 +1,2 @@
 # gittest
-Test repo for git commands study
+Test repo for git commands study test
