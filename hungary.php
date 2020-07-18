@@ -12,6 +12,7 @@ if($hungry == 'yes' ) {
 } else {
 
     echo "drink water";
+    echo "HEAD";
     
     
 }
