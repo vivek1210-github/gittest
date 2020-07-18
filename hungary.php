@@ -14,6 +14,8 @@ if($hungry == 'yes' ) {
     echo "drink water";
     echo "HEAD";
     echo "HEAD1";
+    echo "head 2";
+    echo "another line";
     
     
 }
