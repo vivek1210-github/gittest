@@ -17,6 +17,7 @@ if($hungry == 'yes' ) {
     echo "head 2";
     echo "another line";
     echo "another line 2";
+    echo "another line 3";
     
     
 }
