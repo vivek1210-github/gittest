@@ -16,8 +16,7 @@ if($hungry == 'yes' ) {
     echo "HEAD1";
     echo "head 2";
     echo "another line";
-    echo "another line 2";
-    echo "another line 3";
+    echo "TAKE IT SLOW AND EASY";
     
     
 }
