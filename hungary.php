@@ -3,7 +3,7 @@ echo "I am hungry";
 
 $hungry = "no";
 
-$data = "data enew";
+$data = "data custom fields";
 
 function finalmessage() {
     echo "completed message";
