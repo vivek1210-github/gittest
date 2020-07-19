@@ -2,9 +2,6 @@
 echo "I am hungry";
 
 echo "cricket";
-echo "football";
-echo "GOLF";
-echo "Hocky";
 
 
 $hungry = "no";
