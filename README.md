@@ -23,15 +23,3 @@ list 8
 list 9 
 
 list 10
-
-list 11
-
-LIST 12
-
-list 13
-
-list 14
-
-list 15
-
-
