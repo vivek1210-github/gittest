@@ -9,9 +9,7 @@ if($hungry == 'yes' && $hungry = "y" ) {
     echo "eat patty";
     echo "drink coke and pepsi";
   
-} else {
-    
-} else if($hungry == 'no') {
+}  else if($hungry == 'no') {
     echo "Dancing";
     echo "Singing"
 
