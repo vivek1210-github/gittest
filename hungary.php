@@ -5,6 +5,8 @@ $hungry = "no";
 
 $data = "data custom fields";
 
+$searchengines = "Google, yahoo, bing";
+
 function finalmessage() {
     echo "completed message";
 }
