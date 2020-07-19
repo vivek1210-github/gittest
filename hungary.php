@@ -1,5 +1,5 @@
 <?phpgi
-echo "I am hungry";
+echo "I am hungry nowitz";
 
 echo "cricket";
 echo "wwe";
