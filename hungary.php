@@ -8,6 +8,7 @@ if($hungry == 'yes' ) {
     echo "React";
     echo "git";
     echo "php";
+    echo "mysql";
 } else {
 
     echo "drink water";
