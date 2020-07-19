@@ -5,8 +5,6 @@ $hungry = "no";
 
 $data = "data enew";
 
-$searchengines = "Google, yahoo, bing";
-
 function finalmessage() {
     echo "completed message";
 }
