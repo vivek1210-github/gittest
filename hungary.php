@@ -3,12 +3,12 @@ echo "I am hungry";
 
 $hungry = "no";
 
-if($hungry == 'yes' && $hungry = "yo" ) {
-    echo "Angular";
-    echo "React";
-    echo "git";
-    echo "php";
-    echo "mysql";
+if($hungry == 'yes' && $hungry = "y" ) {
+    echo "eat samosa";
+    echo "eat junkfood";
+    echo "eat patty";
+    echo "drink coke and pepsi";
+  
 } else {
     
 } else if($hungry == 'no') {
@@ -18,12 +18,7 @@ if($hungry == 'yes' && $hungry = "yo" ) {
 }else {
 
     echo "drink water";
-    echo "HEAD";
-    echo "HEAD1";
-  
-    echo "head 2";
-    echo "another line";
-    echo "another line 2";
+   
     
     
 }
