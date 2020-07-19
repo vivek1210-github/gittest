@@ -7,7 +7,7 @@ if($hungry == 'yes' && $hungry = "y" ) {
     echo "eat samosa";
     echo "eat junkfood";
     echo "eat patty";
-    echo "drink coke and pepsi";
+    echo "drink coke and limca";
   
 }  else if($hungry == 'no') {
     echo "Dancing";
