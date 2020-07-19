@@ -10,6 +10,12 @@ if($hungry == 'yes' ) {
     echo "php";
     echo "mysql";
 } else {
+    
+} else if($hungry == 'no') {
+    echo "Dancing";
+    echo "Singing"
+
+}else {
 
     echo "drink water";
     echo "HEAD";
