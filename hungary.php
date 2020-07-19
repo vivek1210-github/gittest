@@ -3,6 +3,7 @@ echo "I am hungry";
 
 echo "cricket";
 echo "wwe";
+echo "golf";
 
 
 $hungry = "no";
