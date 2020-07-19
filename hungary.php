@@ -1,6 +1,9 @@
 <?php
 echo "I am hungry";
 
+echo "cricket";
+
+
 $hungry = "no";
 
 $data = "data enew";
