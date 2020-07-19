@@ -3,7 +3,9 @@ echo "I am hungry";
 
 $hungry = "no";
 
-if($hungry == 'yes' && $hungry = "yyvssos" ) {
+$data = "hi";
+
+if($hungry == 'yes' && $hungry = "vinaykumar" ) {
     echo "eat samosa";
     echo "eat junkfood";
     echo "eat patty";
