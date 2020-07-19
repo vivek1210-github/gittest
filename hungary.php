@@ -1,10 +1,8 @@
-<?php
+<?phpgi
 echo "I am hungry";
 
 echo "cricket";
 echo "wwe";
-echo "golf";
-echo "hockey";
 
 
 $hungry = "no";
