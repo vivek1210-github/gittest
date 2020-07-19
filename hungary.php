@@ -14,6 +14,10 @@ function errors() {
     echo "list all errors";
 }
 
+function warnings() {
+    echo "list all warnings";
+}
+
 if($hungry == 'yes' && $hungry = "200" ) {
     echo "eat peanut butter crunchy";
     echo "eat fastfood";
