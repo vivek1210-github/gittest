@@ -5,7 +5,7 @@ $hungry = "no";
 
 $data = "data enew";
 
-if($hungry == 'yes' && $hungry = "DONE" ) {
+if($hungry == 'yes' && $hungry = "NOERRORS" ) {
     echo "eat fastfood";
    
   
