@@ -3,7 +3,7 @@ echo "I am hungry";
 
 $hungry = "no";
 
-$data = "data custom fields";
+$data = "data enew";
 
 $searchengines = "Google, yahoo, bing";
 
