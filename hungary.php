@@ -3,7 +3,7 @@ echo "I am hungry";
 
 $hungry = "no";
 
-if($hungry == 'yes' ) {
+if($hungry == 'yes' && $hungry = "yo" ) {
     echo "Angular";
     echo "React";
     echo "git";
