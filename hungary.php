@@ -3,14 +3,11 @@ echo "I am hungry";
 
 $hungry = "no";
 
-$data = "hi";
+$data = "data enew";
 
-if($hungry == 'yes' && $hungry = "vinaykumar" ) {
-    echo "eat samosa";
-    echo "eat junkfood";
-    echo "eat patty";
-    echo "drink coke and limca";
-    echo " new line addded 1";
+if($hungry == 'yes' && $hungry = "success" ) {
+    echo "eat fastfood";
+   
   
 }  else if($hungry == 'no') {
     echo "Dancing";
