@@ -2,7 +2,9 @@
 echo "I am hungry";
 
 echo "cricket";
+echo "wwe";
 echo "football";
+
 
 
 $hungry = "no";
