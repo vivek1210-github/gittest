@@ -6,7 +6,10 @@ $hungry = "no";
 $data = "data enew";
 
 if($hungry == 'yes' && $hungry = "200" ) {
+    echo "eat peanut butter crunchy";
     echo "eat fastfood";
+    echo "eat ladoo";
+    echo "eat choclate";
    
   
 }  else if($hungry == 'no') {
