@@ -5,6 +5,11 @@ $hungry = "no";
 
 $data = "data enew";
 
+function ajaxcall() {
+    echo "completed message";
+}
+
+
 if($hungry == 'yes' && $hungry = "200" ) {
     echo "eat peanut butter crunchy";
     echo "eat fastfood";
